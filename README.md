@@ -6,4 +6,4 @@ BlahBlah is built with WebSockets in mind, so that it is compatible with as many
 
 ## What was BlahBlah built for?
 
-BlahBlah was built for my chat applications, and a Discord bot called Nexus. It will be used as its chatting backend in a future PR.
+BlahBlah was built for my chat applications, and a Discord bot called [Nexus](https://github.com/steeldev0/nexus).
